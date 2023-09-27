@@ -10,4 +10,4 @@ this is where your tag lin will go
 
 [My favourite website](https://www.amazon.ca)
 
-![fender teleaster guitar](images/tele.jpg)
+![fender teleaster guitar](img/tele.jpg)
